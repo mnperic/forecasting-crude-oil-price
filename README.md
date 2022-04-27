@@ -11,7 +11,7 @@ To conduct this, historical crude oil price data was obtained for the <b>2000-20
 ### Model
 
  <p align="center">
-  <img src="https://github.com/mnperic/forecasting-crude-oil-price/blob/main/Images/crude_oil_price_model.png" alt="forecast"/>
+  <img src="https://github.com/mnperic/forecasting-crude-oil-price/blob/main/Images/crude_oil_price_model.png" alt="model"/>
 </p>
 
 ### Forecast
